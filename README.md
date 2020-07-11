@@ -1,0 +1,1 @@
+### the .env file - we wouldn't put a secret in the env file, but rather we'd create a proxy API service to keep secrets out of the app bundle.
